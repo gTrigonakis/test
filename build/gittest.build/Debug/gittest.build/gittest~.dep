@@ -1,0 +1,11 @@
+538a71257e705a629aa785671188f27e fca9703b12231d2c0a7b6df569acbad0 ffffffffffffffffffffffffffffffff 102 /Users/Giorgos/gitTest/build/Debug/gittest.app
+000000004e9494040000000000000088 36b196fc60b40381d308e307fabe7ca5 ffffffffffffffffffffffffffffffff 136 /Users/Giorgos/gitTest/build/Debug/gittest.app/Contents/Resources/gittest.momd
+000000004e949404000000000002bb6b f9c672f441159fd192f85eb3017e4551 ffffffffffffffffffffffffffffffff 34381 /Users/Giorgos/gitTest/build/Debug/gittest.app/Contents/Resources/en.lproj/MainMenu.nib
+00000000000000000000000000000000 174f38a142d3a860f1cd29daa6b6e248 ffffffffffffffffffffffffffffffff 436 /Users/Giorgos/gitTest/build/Debug/gittest.app/Contents/Resources/en.lproj/Credits.rtf
+000000004e949404000000000000002d 951e837a31476be6d6b528bb8c1ed5ae ffffffffffffffffffffffffffffffff 92 /Users/Giorgos/gitTest/build/Debug/gittest.app/Contents/Resources/en.lproj/InfoPlist.strings
+8926cc66e4d9f14e528cc172f75683fd 978ae290860860feaea3f8c037b4c45f ffffffffffffffffffffffffffffffff 21928 /Users/Giorgos/gitTest/build/Debug/gittest.app/Contents/MacOS/gittest
+00000000000000000000000000000000 df822cd652793ed7bb7daf0e5447f921 ffffffffffffffffffffffffffffffff 8 /Users/Giorgos/gitTest/build/Debug/gittest.app/Contents/PkgInfo
+00000000000000000000000000000000 df822cd652793ed7bb7daf0e5447f921 ffffffffffffffffffffffffffffffff 880 /Users/Giorgos/gitTest/build/Debug/gittest.app/Contents/Info.plist
+27af3b3c3265a8c2ccd9b0bb7f6b6366 4a4e122caae48457b9b7aa3a8f13ffac ffffffffffffffffffffffffffffffff 45944 /Users/Giorgos/gitTest/build/gittest.build/Debug/gittest.build/Objects-normal/x86_64/gittestAppDelegate.o
+27af3b3c7cf13cc6ccd9b0bb7f6b7d7f c368de4a016f9225eb3b6b4878455696 ffffffffffffffffffffffffffffffff 2376 /Users/Giorgos/gitTest/build/gittest.build/Debug/gittest.build/Objects-normal/x86_64/main.o
+000000000e503e6c0000000000000174 27af3b3c7cf13cc6ccd9b0bb7f6b7d17 ffffffffffffffffffffffffffffffff 8999964 /var/folders/to/toFZVzfLESytelAhBRCJ2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gittest-Prefix-glvaxutocswnhaclvxzosjvgnyeo/gittest-Prefix.pch.pth
